@@ -1,9 +1,9 @@
 export default functions = {
     To2(a) {
-        return = []
+        retorno = []
         for(x = 1; x <= a; x++) {
             retorno.push(2)
         }
-        return return
+        return retorno
     }
 }
