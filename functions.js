@@ -4,6 +4,6 @@ export default functions = {
         for(x = 1; x <= a; x++) {
             retorno.push(1)
         }
-        return return
+        return retorno
     }
 }
